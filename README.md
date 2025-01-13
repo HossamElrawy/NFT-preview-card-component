@@ -2,15 +2,6 @@
 
 This project is a solution to the [Frontend Mentor](https://www.frontendmentor.io/) challenge: **NFT Preview Card Component**. The challenge involves building a card component that displays NFT details such as an image, title, description, price, time remaining, and creator information.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Structure](#structure)
-- [Contact](#contact)
 
 ---
 
@@ -21,8 +12,6 @@ This project is designed to:
 - Practice HTML and CSS skills.
 - Use hover effects for interactive design.
 - Implement a clean and responsive layout suitable for various screen sizes.
-
-![Preview of the Component](./preview.jpg)
 
 ---
 
@@ -43,25 +32,12 @@ This project is designed to:
 
 ---
 
-## Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/nft-preview-card.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd nft-preview-card
-   ```
-3. Open `index.html` in your browser to view the component.
-
----
 
 ## Usage
 
 To use or customize this project:
 
-- Replace the image file `image-equilibrium.jpg` in the `/images` folder with your own.
+- Replace the image file `image-equilibrium.jpg` with your own.
 - Modify the `style.css` file to adjust colors, fonts, or layout if desired.
 - Update text content in the `index.html` file to reflect your use case.
 
@@ -83,13 +59,3 @@ The main structure includes:
 - Flexbox for layout alignment.
 - Hover effects for image overlay and title.
 - Color scheme based on HSL values for consistency.
-
----
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out:
-
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com
-
